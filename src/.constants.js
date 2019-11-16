@@ -1,7 +1,7 @@
 module.exports = Object.freeze({
   TOKEN: '861409410:AAG3Adf-w1VQ-rZk1wayzLoUdnRU7xSUyw0',
   ARIA_SECRET: 'ariatelegrambotsecret', 
-  ARIA_PORT: '8210',
+  ARIA_PORT: 8210,
   ARIA_DOWNLOAD_LOCATION: '/root/content/downloads',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/root/content/downloads', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: [], // Prevent downloading from URLs containing these substrings
